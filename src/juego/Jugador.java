@@ -3,8 +3,6 @@ package juego;
 public class Jugador {
 
 	
-	
-	
 	/**
 	 * 
 	 * Genera una tirada y la devuelve
